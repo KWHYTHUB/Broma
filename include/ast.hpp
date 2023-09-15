@@ -88,7 +88,7 @@ namespace broma {
 		bool is_const = false;
 		bool is_virtual = false;
 		bool is_callback = false; ///< Whether or not this function is a callback.
-								  ///< In Geode, this determines the function's calling convention (optcall or thiscall).
+								  ///< In Sapphire, this determines the function's calling convention (optcall or thiscall).
 		bool is_static = false;
 
 		inline bool operator==(MemberFunctionProto const& f) const {

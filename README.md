@@ -25,5 +25,5 @@ class OtherBindedClass : BindedClass {
 	std::vector<int> m_myVector;
 }
 ```
-This language is primarily designed for use in the Geometry Dash modding framework [Geode](https://github.com/geode-sdk/geode),
+This language is primarily designed for use in the Geometry Dash modding framework [Sapphire](https://github.com/KWHYTHUB/sapphire),
 and most of the language features are tailored for that usecase.

@@ -1,6 +1,6 @@
 # Broma
 Broma is a C++-like language and parser designed to generate "bindings" for C++ classes and functions in external native binaries.
-This language is primarily designed for use in the Geometry Dash modding framework [Geode](https://github.com/geode-sdk/geode),
+This language is primarily designed for use in the Geometry Dash modding framework [Sapphire](https://github.com/KWHYTHUB/sapphire),
 and most of the language features are tailored for that usecase.
 
 # User's Guide
